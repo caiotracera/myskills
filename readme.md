@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-  <video src=".github/mock.mp4" autoplay/>
+  <img src=".github/mock.gif"/>
 </div>
 
 # :rocket: About the project
